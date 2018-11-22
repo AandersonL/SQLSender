@@ -2,7 +2,7 @@
 A simple program written in [Go](https://golang.org), still in developement.
 
 
-## How install
+## How to install
 
 Make sure to have [Go](https://golang.org) installed on your machine, then install the following libraries on the command line:
 ```
@@ -10,7 +10,7 @@ Make sure to have [Go](https://golang.org) installed on your machine, then insta
   go get "github.com/moraes/config"
 ```
 
-After everything is setup you can compile the application, on your machine, clone the repo on your dev directory and run on the command line
+After everything is setup you can compile the application on your machine, clone the repo on your dev directory and run on the command line
 
 ```
   cd SQLSender
@@ -18,10 +18,10 @@ After everything is setup you can compile the application, on your machine, clon
  ```
  And edit the config.yml with your database info.
  
- ## Why i'm gonna use that ?
+ ## Why should I use that? ?
  
- I made this tool to improve my Go capabilities and to study SQL more faster instead use a totally GUI program to write sql.
-  You can write your .sql files(using your text editos and use SQLSender send to the database with your SQL cli open. its really more faster! 
+ I made this tool to learn Go better and to study SQL faster than using others GUI tool to write sql.
+  You can write your .sql files(using your text editor and use SQLSender send to the database with your SQL cli open. its really more faster! 
   
   
   ### Here a simple vim script to make it faster
