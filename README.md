@@ -16,6 +16,7 @@ After everything is setup you can compile the application, on your machine, clon
   cd SQLSender
   go build SQLSender
  ```
+ And edit the config.yml with your database info.
  
  ## Why i'm gonna use that ?
  
