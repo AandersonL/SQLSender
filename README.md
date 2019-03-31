@@ -1,5 +1,5 @@
 # SQLSender
-A simple program written in [Go](https://golang.org), still in developement.
+A simple program written in [Go](https://golang.org) to parse .sql scripts files and send to a remote host. 
 
 
 ## How to install
